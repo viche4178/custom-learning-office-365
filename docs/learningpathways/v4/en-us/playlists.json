@@ -23,6 +23,30 @@
     ]
   },
   {
+    "Id": "9b559d7e-7aea-458b-b762-6f4e9d298ecd",
+    "Title": "Home Site -what is it ?",
+    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "1f63ba09-3928-4569-a5be-3d2ff4d16cd5",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c1222526-24d0-477d-8141-d71b8359c7de",
+    "Description": "Découvrez le tout",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
+      "1fa93876-0318-4622-b473-142a3bfd6495",
+      "fb440590-1b4d-4562-94ba-61123b299e3d",
+      "be096b45-709c-473a-afb9-f7a998b3f435",
+      "4a358470-a1a3-4796-84ec-45adf4895473",
+      "c0a66323-d0ac-4c7f-8aa3-8eca9bf92817",
+      "b7f52310-54dd-4701-be3c-c0acbb8d998b"
+    ]
+  },
+  
+  {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
     "Title": "Get started with Teams",
     "Image": "images/playlists/manage_meetings.png",
