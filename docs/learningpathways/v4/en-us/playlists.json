@@ -44,8 +44,7 @@
       "c0a66323-d0ac-4c7f-8aa3-8eca9bf92817",
       "b7f52310-54dd-4701-be3c-c0acbb8d998b"
     ]
-  },
-  
+  },  
   {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
     "Title": "Get started with Teams",
@@ -464,7 +463,7 @@
   },
   {
     "Id": "5872570a-e8a6-4d84-8802-4dd053b4dabc",
-    "Title": "Top threats",
+    "Title": "Top threats - pas peur",
     "Image": "images/playlists/LP-security-5-simple-steps.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
