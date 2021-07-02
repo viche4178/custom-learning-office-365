@@ -206,28 +206,28 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Modern workplace",
+          "Id": "d6502fc1-df15-4964-aa17-ce89b85f7d01",
+          "Name": "Microsoft Learning pathways",
           "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "1f63ba09-3928-4569-a5be-3d2ff4d16cd5",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Vincent GEORGES",
           "SubCategories": []
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
+          "Name": "Microsoft Viva Connections",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
+          "TechnologyId": "1f63ba09-3928-4569-a5be-3d2ff4d16cd5",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
         },
         {
           "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
+          "Name": "SharePoint App bar - Home Site",
           "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "1f63ba09-3928-4569-a5be-3d2ff4d16cd5",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
