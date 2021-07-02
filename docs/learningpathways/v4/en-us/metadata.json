@@ -209,7 +209,7 @@
           "Id": "d6502fc1-df15-4964-aa17-ce89b85f7d01",
           "Name": "Microsoft Learning pathways",
           "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "1f63ba09-3928-4569-a5be-3d2ff4d16cd5",
+          "TechnologyId": "4b7d1129-10b9-473a-b189-b940ab9cd60e",
           "SubjectId": "",
           "Source": "Vincent GEORGES",
           "SubCategories": []
@@ -218,7 +218,7 @@
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Microsoft Viva Connections",
           "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "1f63ba09-3928-4569-a5be-3d2ff4d16cd5",
+          "TechnologyId": "28b09d70-7947-4420-ab34-84a6d0eeead7",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
